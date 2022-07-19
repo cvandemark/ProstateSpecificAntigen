@@ -1,4 +1,5 @@
 # ProstateSpecificAntigen
 Prostate-Specific Antigen Research Results
 
-Supplementary R-code is a brief approach to a multiple linear regression model with hypothesis testing. Code includes all stages of the methodolgy to include testing of linear model assumptions. 
+Multiple Linear Regression research design on Prostate-Specific Antigen and theoretical predictor variables. R-Script runs through model design and model selection methods. All model assumptions are tested as well. 
+
